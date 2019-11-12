@@ -1,6 +1,6 @@
 .BuildControls {
     width: 100%;
-    position: fixed;
+    /* position: fixed; */
     bottom: 0;
     background-color: #ff9ff3;
     display: flex;
